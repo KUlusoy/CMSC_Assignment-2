@@ -6,7 +6,7 @@
 
 ## 🩺 What is it?
 
-So, this program asks for a patient's info (name, address, phone number, and emergency contact) and then a few medical procedures they had. After that, it prints everything out neatly and adds up the total charges.
+This program asks for a patient's info (name, address, phone number, and emergency contact) and then a few medical procedures they had. After that, it prints everything out neatly and adds up the total charges.
 
 It's split into a `Patient` class, a `Procedure` class, and a driver that ties them together.
 
